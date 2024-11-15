@@ -1,10 +1,10 @@
 
-# RESIDA-Backend
+# RICIS-Backend
 
 
-Hello there, welcome to the RESIDA-Backend repository.
+Hello there, welcome to the RICIS-Backend repository.
 
-     The backend systems of RESIDA is built on an layered architecture with Node.js , ensuring a clear separation of concerns. This approach enhances modularity, maintainability, and scalability, allowing seamless integration of new features. The layers include presentation, application, domain, data, and repositories each serving specific functions, enabling a robust and flexible backend infrastructure.
+     The backend systems of RICIS is built on an layered architecture with Node.js , ensuring a clear separation of concerns. This approach enhances modularity, maintainability, and scalability, allowing seamless integration of new features. The layers include presentation, application, domain, data, and repositories each serving specific functions, enabling a robust and flexible backend infrastructure.
 
 ## Pre-requisites
 
@@ -21,7 +21,7 @@ Here is a quick guide to help you get setup:
 
 - Clone the repository
 
-       $ git clone https://github.com/OPEX-Consulting/resida_be.git
+       $ git clone https://github.com/BiGGBishop/RICIS-BE-NEW
 
 
 - Install the required Node dependencies
@@ -35,7 +35,7 @@ Here is a quick guide to help you get setup:
 
 - You can run your tests on Postman using the documenter link 
   
-      https://documenter.getpostman.com/view/29940255/2s9YR3cbEf
+      https://documenter.getpostman.com/view/comingsoon
 
 ## Folder/Directory Structure
 
@@ -70,7 +70,6 @@ This application has been built with the following technologies:
 - [MongoDB](https://www.mongodb.com/)
 - [Express](https://www.expressjs.com/)
 - [NodeJs](https://www.nodejs.org/en/)
-- [Typescript](https://www.typescriptlang.org/)
 - [NPM](https://www.npmjs.com/)
 - [GCP](https://https://cloud.google.com/)
 - [Render](https://www.render.com/)
